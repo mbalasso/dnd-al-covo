@@ -1,0 +1,42 @@
+site_name: D&D Al Covo
+site_url: https://mbalasso.github.io/dnd-al-covo/
+repo_url: https://github.com/mbalasso/dnd-al-covo
+
+theme:
+  name: material
+  language: it
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: white
+      toggle: {icon: material/weather-night, name: Tema scuro}
+    - scheme: slate
+      toggle: {icon: material/weather-sunny, name: Tema chiaro}
+      primary: black
+  custom_dir: overrides
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search:
+      lang: it
+  - callouts
+
+hooks:
+  - hooks/timeline.py
+  - hooks/game_date.py
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
