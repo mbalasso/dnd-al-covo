@@ -27,10 +27,13 @@ plugins:
   - search:
       lang: it
   - callouts
+  - ezlinks
 
 hooks:
   - hooks/timeline.py
   - hooks/game_date.py
+  - hooks/background.py
+  - hooks/last_session.py
 
 markdown_extensions:
   - admonition

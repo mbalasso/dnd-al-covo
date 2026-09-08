@@ -28,3 +28,4 @@ requests==2.34.2
 six==1.17.0
 urllib3==2.7.0
 watchdog==6.0.0
+mkdocs-ezlinks-plugin==0.1.14

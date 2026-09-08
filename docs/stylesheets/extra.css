@@ -1,12 +1,3 @@
-:root {
-    --velo: rgba(255, 255, 255, .78);
-}
-
-[data-md-color-scheme="slate"] {
-
-    --velo: rgba(20, 18, 24, .82);
-}
-
 .md-main__inner {
     border-radius: .4rem;
     padding-inline: 1rem;
@@ -22,6 +13,12 @@
 .full {
     width: 100%;
     border-radius: .3rem;
+}
+
+.hero {
+    width: 100%;
+    border-radius: .3rem;
+    margin: .5rem 0 1.5rem;
 }
 
 

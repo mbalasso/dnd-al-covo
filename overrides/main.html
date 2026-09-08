@@ -1,18 +1,1 @@
 {% extends "base.html" %}
-
-{% block extrahead %}
-  {{ super() }}
-  {% if page.meta and page.meta.sfondo %}
-  <style>
-    body {
-      background-image:
-        linear-gradient(var(--velo), var(--velo)),
-        url("{{ base_url }}/assets/{{ page.meta.sfondo }}");
-      background-size: cover;
-      background-position: center;
-      background-attachment: fixed;
-    }
-    .md-main__inner { background: var(--md-default-bg-color); }
-  </style>
-  {% endif %}
-{% endblock %}
