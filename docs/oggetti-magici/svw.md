@@ -1,11 +1,13 @@
 # Oggetti magici per SVW
 
 ### **Anello del saltare**
+
 *Anello, non comune. Richiede sintonia*
 
 Finché il personaggio indossa questo anello può lanciare l'incantesimo *Saltare* \[pag.322\], ma solo su se stesso.
 
 ### **Bacchetta di Dardi Incantati**
+
 *Bacchetta, non comune*
 
 Questa bacchetta ha 7 cariche. Mentre il personaggio la impugna, può consumare non più di 3 cariche e usarla per lanciare *Dardo incantato*. Consumando 1 carica, il personaggio lancia la versione di 1° livello dell’incantesimo. Il livello dell’incantesimo è aumentabile di 1 per ogni carica aggiuntiva consumata.  
@@ -17,19 +19,36 @@ Ripristinare le cariche. All’alba di ogni giorno, la bacchetta recupera 1d6+1 
 Questa bacchetta ha 3 cariche e recupera 1d3 cariche consumate ogni giorno all’alba. Mentre il personaggio la impugna, può effettuare un’azione di Magia e consumare una carica: se entro 18 metri da lui si trovano porte segrete o trappole, la bacchetta inizia a pulsare e indica quella a lui più vicina. 
 
 ### **Boccale della sobrietà**
+
 *Oggetto meraviglioso, comune*
 
 Su un lato di questo boccale è scolpito un volto corrucciato. Può essere utilizzato per bere birra, vino o qualsiasi altra bevanda alcolica non magica senza ubriacarsi. Non ha effetto sui liquidi magici o su sostanze nocive come il veleno.
 
 ### **Cristallo Umbrazhar**
-**Oggetto meraviglioso, raro. Richiede sintonia**
+
+*Oggetto meraviglioso, raro. Richiede sintonia*
 
 Guadagni un \+1 ai tiri per colpire con intantesimo. Inoltre, quando effettui un tiro per colpire con incantesimo puoi ignorare la mezza copertura. 
 
+**Recupero arcano:** Con un'azione di Magia, puoi recuperare slot incantesimo spesi per un totale massimo di livelli pari a **4**. Puoi suddividere il recupero come preferisci (es. uno slot di 4°, oppure uno di 3° + uno di 1°, oppure due di 2°, ecc.). Una volta utilizzato, questo privilegio non può essere usato fino all'alba successiva. 
+
 ### **Fasce del potere senz’armi**
+
 *Oggetto meraviglioso, non comune* 
 
 Finché il personaggio indossa queste fasce, effettua i tiri per colpire e i tiri per i danni per i colpi senz’armi con un bonus determinato dalla rarità delle fasce (non comune \+1). A scelta del personaggio, i colpi infliggono danni da Forza o normali.
+
+### **Fasce metalliche di Bilarro**
+
+*Oggetto meraviglioso, raro*
+
+Questa sfera di ferro arrugginito ha un diametro di 7,5 centimetri e pesa 0,5 chilogrammi. Puoi compiere un'azione di **Magia** per lanciare la sfera contro una creatura di taglia Enorme o inferiore che puoi vedere entro 18 metri da te. Mentre attraversa l'aria, la sfera si apre in un groviglio di bande metalliche.
+
+Effettua un tiro per colpire a distanza con un bonus di attacco pari al tuo modificatore di Destrezza più il tuo **bonus di competenza**. Se va a segno, il bersaglio è **trattenuto** finché a che non compi un'**azione bonus** per pronunciare la parola d'ordine in grado di liberarlo. Se lo fai, o se l'attacco fallisce, le bande si contraggono tornando a formare una sfera.
+
+Una creatura che può toccare le bande, inclusa quella **trattenuta**, può compiere un'azione per effettuare una prova di Forza (Atletica) con CD 20 per spezzare le bande di ferro. Se la prova ha successo, l'oggetto viene distrutto e la creatura **trattenuta** è liberata. Se la prova fallisce, ogni ulteriore tentativo di quella creatura fallisce automaticamente finché non sono trascorse 24 ore.
+
+Una volta utilizzate, le bande non possono essere riutilizzate fino all'alba successiva.
 
 ### **Flauto Incantatore**
 *Oggetto meraviglioso, non comune*
@@ -42,12 +61,24 @@ Questo flauto ha 3 cariche e ne recupera 1d3 all’alba di ogni giorno. Il perso
 
 Il personaggio che indossa questo mantello riceve un bonus di \+1 alla Classe Armatura e ai tiri salvezza.
 
+### **Mongkon** (มงคล) **delle ombre**
+
+*Elmo raro. Richiede sintonia*
+
+- **+18 metri di scurovisione**. Se possiedi già la scurovisione, la tua scurovisione aumenta di 18 metri.
+- **Shadow Step / Passo delle ombre (AZIONE):** Mentre ti trovi interamente in luce fioca o oscurità, puoi usare un'azione per teletrasportarti fino a 18 metri in uno spazio libero che puoi vedere, anch'esso in luce fioca o oscurità. Hai vantaggio sul prossimo attacco in mischia prima della fine del turno. Puoi usare questo privilegio un numero di volte pari al tuo bonus di competenza.
+- **Cacciatore delle ombre**: Quando hai meno della metà dei tuoi punti ferita e usi **Raffica di Colpi** un **19** per il tiro per colpire vale come **colpo critico**. 
+
 ### **Perla dissetante**
+
 *Oggetto meraviglioso, comune*
+
 Questa perla gelatinosa e insapore si scioglie nei liquidi, trasformando fino a 0,5 litri di liquido in acqua potabile fresca. La perla non ha effetto sui liquidi magici o su sostanze nocive come il veleno.
 
 ### **Pietre parlanti**
+
 *Oggetto meraviglio, non comune*
+
 Le Pietre parlanti sono disponibili in coppia, ciascuna intagliata in modo da abbinarsi all'altra, in modo che l'abbinamento sia facilmente riconoscibile. Quando tocchi una pietra, puoi lanciare l'incantesimo *Inviare* da essa. Il bersaglio è il portatore dell'altra pietra. Se nessuna creatura porta l'altra pietra, te ne accorgi non appena usi la pietra e non lanci l'incantesimo.
 
 Una volta lanciato *Inviare* con una delle due pietre, le pietre non possono più essere utilizzate fino all'alba successiva. Se una delle due pietre viene distrutta, l'altra perde il suo potere magico. 
@@ -58,17 +89,31 @@ Una volta lanciato *Inviare* con una delle due pietre, le pietre non possono pi�
 
 Quando beve questa pozione, il personaggio ottiene resistenza per 1 ora al tipo di danno indicato sulla confezione.
 
+### **Pozione di Invisibilità**
+
+*Pozione, rara*
+
+Il contenitore di questa pozione sembra vuoto, ma al tatto dà l'impressione di contenere del liquido. Quando bevi la pozione, ottieni la condizione di Invisibilità per 1 ora. L'effetto termina prima se effettui un tiro per colpire, infliggi danni o lanci un incantesimo.
+
+### **Pozione velenosa**
+
+*Pozione, non comune*
+
+Questo intruglio ha l'aspetto, l'odore e il sapore di una **pozione di guarigione** o di un'altra pozione benefica. In realtà, però, si tratta di veleno mascherato da magia illusoria. L'incantesimo **Identificare** ne rivela la vera natura.
+
+Se bevi questa pozione, subisci 4d6 danni da veleno e devi superare un tiro salvezza su Costituzione con CD 13 o subire la condizione **avvelenato** per 1 ora.
+
 ### **Simbolo sacro di Auril**
 
 *Oggetto meraviglioso, non comune*
 
-Concede vantaggio su una prova di caratteristica basata su Saggezza, una volta al giorno. Non vale per i tiri salvezza.
+Concede vantaggio su una **prova di caratteristica** basata su Saggezza, una volta al giorno. Non vale per i tiri salvezza.
 
 ### **Verga del patto rispettato**
 
-*Verga, non comune. Richiede sintonia con un warlock*
+*Verga, rara. Richiede sintonia con un warlock*
 
-Finché impugna questa verga, il personaggio ottiene un bonus ai tiri per colpire con incantesimo e alla CD dei tiri salvezza dei suoi incantesimi da warlock. Il bonus è determinato dalla rarità della verga (non comune \+1).  
+Finché impugna questa verga, il personaggio ottiene un bonus ai tiri per colpire con incantesimo e alla CD dei tiri salvezza dei suoi incantesimi da warlock. Il bonus è determinato dalla rarità della verga (rara \+2).  
 Inoltre, mentre impugna la verga può ripristinare uno slot incantesimo con un’azione di Magia. Il personaggio non può utilizzare nuovamente questa proprietà finché non termina un riposo lungo.
 
     

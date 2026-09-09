@@ -23,6 +23,8 @@ Anche quando vi colpirà a morte con un colpo critico.
 - [**Stagione 2**](sessioni/stagione-02/index.md)
 - [**Stagione 3**](sessioni/stagione-03/index.md)
 
+### Oggetti magici per party
+- [**Sangtiennoi, Vaelith, Will**](oggetti-magici/svw.md)
 
 ### Regole custom
 - [**Gioco**](regole/regole-custom-gioco.md)
