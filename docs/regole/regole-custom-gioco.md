@@ -13,6 +13,7 @@ Bere una pozione (qualsiasi) è un'azione bonus. Se bevi una pozione di guarigio
 Il personaggio dispone di un numero di Slot di Carico pari al punteggio di caratteristica di Forza (max 20 slot di carico).
 
 É possibile trasportare gratuitamente i seguenti oggetti:
+
 - armi equipaggiate / armature indossate
 - fino a 10 litri di acqua
 - fino a 30 metri di corda
@@ -20,9 +21,22 @@ Il personaggio dispone di un numero di Slot di Carico pari al punteggio di carat
 - fino a 10 razioni
 - fino a 10 torce
 
+
 Per trasportare altri oggetti è necessario spendere il numero di slot di carico mostrato nella scheda per l'equipaggiamento. 
-Il primo slot per tipo costa meno dei successivi (esempio, per le pozioni con il primo si possono trasportare 8 pozioni, con i successivi 4)
-Se non si dispone degli slot di carico necessari per trasportare un oggetto si subiscono le penalità descritte nella sezione Sovraccarico.
+Il primo slot per tipo costa meno dei successivi (esempio, per le pozioni con il primo si possono trasportare 8 pozioni, con i successivi 4).
+
+Se non si dispone degli slot di carico necessari per trasportare un oggetto, gli oggetti vanno segnati nella tabella "Sovraccarico" e si subiscono le penalità descritte di seguito in base al livello di sovraccarico segnato nella scheda. 
+
+Penalità in caso di Sovraccarico (ogni effetto si cumula ai precedenti): 
+
+1. Hai svantaggio alle prove di furtività
+2. Chi prova ad afferrarti ha vantaggio
+3. Gli attacchi di opportunità contro di te hanno vantaggio
+4. Hai svantaggio ai TS su Destrezza
+5. La tua velocità è dimezzata
+6. Hai svantaggio ai tiri per colpire
+
+
 ## Indagine passiva 
 Calcolata con **INDAGINE PASSIVA = 10 + modificatore di Indagare**
 

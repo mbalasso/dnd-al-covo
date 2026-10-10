@@ -32,6 +32,12 @@ Guadagni un \+1 ai tiri per colpire con intantesimo. Inoltre, quando effettui un
 
 **Recupero arcano:** Con un'azione di Magia, puoi recuperare slot incantesimo spesi per un totale massimo di livelli pari a **4**. Puoi suddividere il recupero come preferisci (es. uno slot di 4°, oppure uno di 3° + uno di 1°, oppure due di 2°, ecc.). Una volta utilizzato, questo privilegio non può essere usato fino all'alba successiva. 
 
+### **Corda della riparazione**
+
+*Oggetto meraviglioso, comune.*
+
+Questo rotolo di corda da 15 metri può ripararsi autonomamente se viene tagliato in qualsiasi numero di pezzi più piccoli. Se tutti i pezzi di corda sono in contatto tra loro e non in uso, il personaggi può effettuare un'azione di Magia per farli riunire. Se una sezione della corda della riparazione viene persa o distrutta, questa rimarrà accorciata per sempre.
+
 ### **Fasce del potere senz’armi**
 
 *Oggetto meraviglioso, non comune* 
