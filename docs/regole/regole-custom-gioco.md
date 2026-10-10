@@ -30,7 +30,7 @@ Se non si dispone degli slot di carico necessari per trasportare un oggetto, gli
 Penalità in caso di Sovraccarico (ogni effetto si cumula ai precedenti): 
 
 1. Hai svantaggio alle prove di furtività
-2. Chi prova ad afferrarti ha vantaggio
+2. Hai svantaggio ai TS per evitare di essere afferrato e alle prove per liberarti
 3. Gli attacchi di opportunità contro di te hanno vantaggio
 4. Hai svantaggio ai TS su Destrezza
 5. La tua velocità è dimezzata
