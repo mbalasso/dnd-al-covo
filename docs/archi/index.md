@@ -4,7 +4,7 @@ Le sessioni sono raccolte per stagione, ma le storie non seguono le stagioni. Qu
 
 - [**ABF**](abf.md) Audun, Bronko, Flanders
 - [**SVW**](svw.md) Sangtiennoi, Vaelith, Will
-- [**BLR**](blr.md) Brugor, Lucan, Renato (Zareth)
+- [**BLR**](blm.md) Brugor, Lucan, Merovich (Zareth)
 
 !!! tip
     Le sessioni in cui due archi convergono compaiono in entrambe le cronologie.

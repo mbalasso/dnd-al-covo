@@ -16,7 +16,7 @@ Anche quando vi colpirà a morte con un colpo critico.
 ### Riassunti per arco narrativo
 - [**Audun, Bronko, Flanders**](abf.md) 
 - [**Sangtiennoi, Vaelith, Will**](svw.md) 
-- [**Brugor, Lucan, Renato (Zareth)**](blr.md) 
+- [**Brugor, Lucan, Merovich (Zareth)**](blm.md) 
 
 ### Riassunti per stagione
 - [**Stagione 1**](sessioni/stagione-01/index.md)

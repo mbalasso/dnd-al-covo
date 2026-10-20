@@ -5,7 +5,7 @@ from pathlib import Path
 
 MARKER = re.compile(r"<!-- TIMELINE(?::([A-Z]+))? -->")
 FRONTMATTER = re.compile(r"^---\n(.*?)\n---\n", re.S)
-ARCS = {"ABF", "SVW", "BLR"}
+ARCS = {"ABF", "SVW", "BLM"}
 ROOT = "sessioni"
 
 
