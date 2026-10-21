@@ -14,4 +14,4 @@ Un filo che corre in parallelo, lontano da Luskan, nelle stesse settimane. Comin
     - **☠️ Zareth** — elfo drow, bardo del Collegio del Fascino. **Deceduto** Flamerule 25, 1499DR.
 
 
-<!-- TIMELINE:BLR -->
+<!-- TIMELINE:BLM -->
