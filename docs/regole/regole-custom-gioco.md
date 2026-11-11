@@ -3,8 +3,8 @@
 Qui ci sono tutte le regole personalizzate per il gioco di ruolo **attualmente in vigore**. La memoria del passato è persa per sempre.
 
 ## Un incantesimo e uno slot incantesimo per turno
-In un turno si può spendere al massimo uno slot incantesimo. Gli incantesimi lanciati senza consumare slot garantiti da altri privilegi (tratti razziali, oggetti magici, pergamene, talenti) non contano ai fini di questo limite e si possono combinare liberamente con un incantesimo a slot. 
-La **Reazione** fa parte del turno, se hai speso uno slot durante la tua Azione o Azione Bonus, non puoi usarlo nella Reazione. 
+Durante il **tuo turno** puoi spendere al massimo uno slot incantesimo. Gli incantesimi garantiti da altri privilegi (tratti di specie, oggetti magici, pergamene, talenti) che non consumano uno slot non contano ai fini di questo limite. Quindi, per esempio, come Azione puoi lanciare Palla di fuoco usando uno slot e poi come Azione Bonus lanciare Passo Velato garantito dal privilegio lignaggio elfico. Se usi la **Reazione** durante il tuo turno (esempio reazione in seguito ad un attacco di opportunità causato dal tuo movimento), vale sempre lo stesso limite. Quindi, se avevi usato uno slot per lanciare Palla di fuoco non puoi usare uno slot per lanciare Scudo come Reazione durante il tuo turno.
+Se invece usi la Reazione durante il turno di un'altra creatura, puoi spendere uno slot incantesimo a prescindere da quello che avevi fatto o farai durante il tuo turno.
 
 ## Pozioni e pozioni di guarigione
 Bere una pozione (qualsiasi) è un'azione bonus. Se bevi una pozione di guarigione usando la tua Azione, ti curi del massimo. 
